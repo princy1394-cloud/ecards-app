@@ -1,0 +1,31 @@
+{
+  "cards": [
+    {
+      "id": "sample-card-1",
+      "title": "Happy Birthday Sarah!",
+      "occasion": "birthday",
+      "theme": "celebration",
+      "creator": "John Doe",
+      "status": "active",
+      "messages": [
+        {
+          "id": "msg-1",
+          "author": "Alice",
+          "text": "Wishing you the best day ever, Sarah! Hope this year brings you so much joy and happiness.",
+          "font": "cursive",
+          "color": "#e91e63",
+          "createdAt": "2026-03-18T10:00:00Z"
+        },
+        {
+          "id": "msg-2",
+          "author": "Bob",
+          "text": "Happy BD! Let's party soon!",
+          "font": "sans",
+          "color": "#2196f3",
+          "createdAt": "2026-03-18T10:15:00Z"
+        }
+      ],
+      "createdAt": "2026-03-17T12:00:00Z"
+    }
+  ]
+}
